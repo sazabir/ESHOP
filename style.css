@@ -43,7 +43,7 @@ h4{
     position: relative;
     display: flex;
     flex-direction: column;
-    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(https://cdn.shopify.com/s/files/1/0005/5433/6316/files/Color_Banner_Red_4fd737e4-e606-4c67-a844-de6cf5bb3c3b_1180x@2x.jpg?v=1525891023) no-repeat;
+    background: linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3)), url(banner-1.jpg) no-repeat;
     background-size: cover;
     background-position: center;
     width: 100%;
